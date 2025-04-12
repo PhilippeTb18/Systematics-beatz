@@ -52,8 +52,8 @@
   <p>Suivez-moi sur :</p>
   <!-- Remplace TON_PROFIL par tes pseudos -->
   <p>
-    <a href="https://instagram.com/TON_PROFIL" target="_blank">Instagram</a> |
-    <a href="https://tiktok.com/@TON_PROFIL" target="_blank">TikTok</a>
+    <a href="https://instagram.com/philippe_tb_18" target="_blank">Instagram</a> |
+    <a href="https://tiktok.com/@systematics6" target="_blank">TikTok</a>
   </p>
   <p>&copy; 2025 SYSTEMATICS BEATZ</p>
 </footer>
